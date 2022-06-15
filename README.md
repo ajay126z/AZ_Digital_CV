@@ -95,11 +95,11 @@ Continuously learning and Interested in below technologies/process
       Organization  : KPIT Technologies Ltd.			
       Role          : Tech Lead
       Duration      : Oct 2019 - Till date	
-      Client        :	Hitachi Astemo Ltd, USA
+      Client        : Hitachi Astemo Ltd, USA
       
       Description:  The scope of this project was to contribute into following for Hitachi P02 powertrain control module:
-                     1.	Development of the HWIO
-                     2.	Development of the Low Level Driver
+                    1. Development of the HWIO
+		    	2. Development of the Low Level Driver
   
       Different modules involved in this Project:
 
@@ -167,7 +167,7 @@ Continuously learning and Interested in below technologies/process
       Organization  : KPIT Technologies Ltd		
       Role          : Senior Software Engineer	
       Duration      : Jun 2018 – Sept 2019		
-      Client        :	Hitachi Astemo Ltd, USA
+      Client        : Hitachi Astemo Ltd, USA
 
       Description: As a Senior Software Engineer, I was responsible for gathering and analyzing requirements, Low Level Design of the RH850 Peripherals like PWM Output, PWM Input, ICU Driver, and GTM,  and implementation and testing of the driver Interfaces:
 
