@@ -75,16 +75,20 @@ Continuously learning and Interested in below technologies/process
 
 ## Achievements and Recognition and Certification
  
-  - Received Individual award “Delighted customer” at KPIT (Apr 2019)
-  - Recognized in the KPIT Engineering Productivity Newsletter for building GTM AutocodeGen Tool (Nov-2019)
-  - Received prestigious award of “Hitachi Automotive Systems Software Business Division Award Certificate of Commendation” (Sept 2019).
-  - Received Individual award “THE COMRADES” twice at KPIT (Nov- 2021, Jun-2022)
-  - Received Individual award “THE HIGH FLYERS” at KPIT (Aug -2021)
-  - Received Team award “Practice Excellence Award” at KPIT (Oct- 2021)
+ ### Certifications
+  - Certified in “Machine Learning OnRamp” by Mathworks Software. (Jun-2022)	
+  - Certified in “MATLAB OnRamp” by Mathworks Software. (Jun-2022)
   - Certified in Agile Planning: Project Initiation and Requirement Gathering by Skillsoft (Mar-2018).
   - Certified in “Test Driven Development for Embedded C/C++” by Wingman Software. (Aug-2019)
   - Certified by International Software Testing Qualifications Board (ISTQB) in Foundation level Exam (Mar-2015)
-  - Certified in “MATLAB OnRamp” by Mathworks Software. (Jun-2022)
+
+### Recognition
+  - Received Individual award “Delighted customer” at KPIT (Apr-2019)
+  - Recognized in the KPIT Engineering Productivity Newsletter for building GTM AutocodeGen Tool (Nov-2019)
+  - Received prestigious award of “Hitachi Automotive Systems Software Business Division Award Certificate of Commendation” (Sept 2019).
+  - Received Individual award “THE COMRADES” twice at KPIT (Nov-2021, Jun-2022)
+  - Received Individual award “THE HIGH FLYERS” twice at KPIT (Feb-2021, Aug-2021)
+  - Received Team award “Practice Excellence Award” at KPIT (Oct- 2021)
   - ‘On the SPOT Award’ for the prompt and timely delivery of the Software at TCS (Oct-2017).
   - Participated in the MIT ROBOCON, Pune - 2013 (Asia-Pacific Robot Contest (ABU Robocon) is an Asian-Oceanian college robot competition).
 
