@@ -76,6 +76,8 @@ Continuously learning and Interested in below technologies/process
 ## Achievements and Recognition and Certification
  
  ### Certifications
+  - Certified in “Signal Processing OnRamp” by Mathworks Software. (Jun-2022)	
+  - Certified in “Deep Learning OnRamp” by Mathworks Software. (Jun-2022)	
   - Certified in “Machine Learning OnRamp” by Mathworks Software. (Jun-2022)	
   - Certified in “MATLAB OnRamp” by Mathworks Software. (Jun-2022)
   - Certified in Agile Planning: Project Initiation and Requirement Gathering by Skillsoft (Mar-2018).
