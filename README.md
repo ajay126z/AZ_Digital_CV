@@ -76,7 +76,7 @@ Continuously learning and Interested in below technologies/process
 ## Achievements and Recognition and Certification
  
  ### Certifications
-  - KPIT ISO26262 Functional Safety - Level 1 training and assessment. (Oct-2022)
+  - Certified in "KPIT ISO26262 Functional Safety - Level 1" training and assessment. (Oct-2022)
   - Certified in “Signal Processing OnRamp” by Mathworks Software. (Jun-2022)	
   - Certified in “Deep Learning OnRamp” by Mathworks Software. (Jun-2022)	
   - Certified in “Machine Learning OnRamp” by Mathworks Software. (Jun-2022)	
